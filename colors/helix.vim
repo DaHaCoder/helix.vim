@@ -1,5 +1,5 @@
 " Vim color file
-" helix
+" Helix
 " Created by DaHaCoder with ThemeCreator (https://github.com/mswift42/themecreator)
 
 hi clear
@@ -9,7 +9,7 @@ syntax reset
 endif
 
 set t_Co=256
-let g:colors_name = "helix"
+let g:colors_name = "Helix"
 
 
 " Define reusable colorvariables.
@@ -27,7 +27,7 @@ let s:const= "#fccd4a"
 let s:comment="#5a7296"
 let s:func="#8b67ff"
 let s:str="#ff007f"
-let s:type="#aaaaff"
+let s:type="#0088ff"
 let s:var="#10bceb"
 let s:warning="#ff007f"
 let s:warning2="#ff8800"
